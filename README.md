@@ -1,3 +1,2 @@
-# Shuoan's Neovim config
-!!! Work in progress !!!
-- writing from scratch
+# My config files
+work in progress, writing from scratch
